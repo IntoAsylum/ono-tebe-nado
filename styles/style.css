@@ -170,7 +170,7 @@
 .card-link {
   display: block;
   height: 100%;
-  text-decoration: none;  
+  text-decoration: none;
 }
 
 .card {
@@ -182,7 +182,7 @@
   color:#FFF;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;  
+  background-size: cover;
 }
 
 .card_type_film {
